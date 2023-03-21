@@ -1,7 +1,6 @@
 # Quiz-application![image3](https://user-images.githubusercontent.com/104721003/226565791-714cf72b-da41-4077-b25f-4328941a4a23.png)
 ![image4](https://user-images.githubusercontent.com/104721003/226565798-4d3e8ea7-7d91-4212-870b-9a618b6d74f5.png)
 ![image5](https://user-images.githubusercontent.com/104721003/226565799-69254b87-60a9-415c-93e6-5c73dda47e59.png)
-![image6](https://user-images.githubusercontent.com/104721003/226565803-04ffee2c-9537-46b7-b43f-ecb0321bf2e1.png)
 ![image7](https://user-images.githubusercontent.com/104721003/226565809-5ff3f14a-2d14-4211-9187-5b87892bd803.png)
 ![image8](https://user-images.githubusercontent.com/104721003/226565813-273caa6b-a596-42aa-a658-91bac0ed6662.png)
 ![image9](https://user-images.githubusercontent.com/104721003/226565820-8da77d68-8e48-4d20-b899-608c7f93648e.png)
@@ -18,5 +17,5 @@
 ![image20](https://user-images.githubusercontent.com/104721003/226565867-dc07900e-6454-4e52-b5b5-d1da098be8a2.png)
 ![image21](https://user-images.githubusercontent.com/104721003/226565871-99a6235a-fc21-45d0-9aa9-2272b04b1854.png)
 ![image22](https://user-images.githubusercontent.com/104721003/226565877-1c181b3d-f43c-4c79-ad6d-fafa8a587acc.png)
-![image24](https://user-images.githubusercontent.com/104721003/226565880-39f791c1-939b-43cd-9866-0d93a7ef2b2b.png)
+
 
