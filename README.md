@@ -1,3 +1,12 @@
+Hello folks Introducing my latest project - a Technical Quiz Application that aims to revolutionize the way students learn and teachers teach!
+hashtag#See
+With two types of users - teacher and student - this application is designed to make the learning process seamless and enjoyable. Teachers can register and log in individually, and they have access to create tests, add questions, delete and update questions, add required questions, and manage student results. On the other hand, students can register and log in individually, write exams, and view their results.
+ The application provides an interactive and engaging way for students to learn technical subjects. With the ability to take quizzes, view results, and receive feedback, students can track their progress and identify areas where they need improvement.
+
+The application is built on Flask Python microframework and MySQL database (XAMPP), using web technologies, Google APIs, and Google Maps. It ensures that exam schedules are only available within the specified timing, and any issues faced while using the application can be resolved by contacting developers through email. The use of Flask Python microframework and MySQL database (XAMPP) ensures that the application is fast, reliable, and scalable. With the integration of Google APIs and Google Maps, the application provides a seamless and secure user experience.
+The application is user-friendly and easy to navigate, making it accessible to users of all technical levels. The use of advanced technology and tools makes it perfect for educational institutions, training centers, and online courses that want to provide a fun and effective way for students to learn technical subjects. hashtag#project hashtag#students hashtag#mysql hashtag#database hashtag#TechnicalQuiz hashtag#Education hashtag#FlaskPython hashtag#MySQL hashtag#GoogleAPIs hashtag#GoogleMaps hashtag#InnovativeLearning
+
+
 # Quiz-application![image3](https://user-images.githubusercontent.com/104721003/226565791-714cf72b-da41-4077-b25f-4328941a4a23.png)
 ![image4](https://user-images.githubusercontent.com/104721003/226565798-4d3e8ea7-7d91-4212-870b-9a618b6d74f5.png)
 ![image5](https://user-images.githubusercontent.com/104721003/226565799-69254b87-60a9-415c-93e6-5c73dda47e59.png)
